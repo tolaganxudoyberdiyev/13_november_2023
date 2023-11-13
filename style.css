@@ -183,7 +183,9 @@ body p {
     font-size: 15px;
     color: hsl(236, 13%, 42%);
   }
-
+.hero_img{
+  height: 450px;
+}
   .content {
     width: 100%;
     display: flex;
