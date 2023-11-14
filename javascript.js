@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 function icon() {
     let bars = document.getElementById("my__right");
     if (bars.style.display === "block") {
